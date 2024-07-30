@@ -33,7 +33,7 @@ const Hero = () => {
           </div>
 
           <p className="bold-16 lg:bold-20 text-blue-70">
-            198k
+            2.8k
             <span className="regular-16 lg:regular-20 ml-1">Excellent Reviews</span>
           </p>
         </div>
@@ -67,11 +67,11 @@ const Hero = () => {
           <div className="flexBetween">
             <div className="flex flex-col">
               <p className="regular-16 block text-gray-20">Distance</p>
-              <p className="bold-20 text-white">173.28 mi</p>
+              <p className="bold-20 text-white">623 m</p>
             </div>
             <div className="flex flex-col">
               <p className="regular-16 block text-gray-20">Elevation</p>
-              <p className="bold-20 text-white">2.040 km</p>
+              <p className="bold-20 text-white">1.085 km</p>
             </div>
           </div>
         </div>
