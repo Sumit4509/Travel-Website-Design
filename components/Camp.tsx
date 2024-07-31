@@ -63,6 +63,12 @@ const Camp = () => {
           subtitle="Somewhere in the Wilderness"
           peopleJoined="50+ Joined"
         />
+        <CampSite 
+          backgroundImage="bg-bg-img-2"
+          title="Mountain View Camp"
+          subtitle="Somewhere in the Wilderness"
+          peopleJoined="50+ Joined"
+        />
       </div>
 
       <div className="flexEnd mt-10 px-6 lg:-mt-60 lg:mr-6">
