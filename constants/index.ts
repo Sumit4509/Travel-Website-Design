@@ -43,7 +43,7 @@ export const FEATURES = [
     icon: '/location.svg',
     variant: 'orange',
     description:
-      'Lots of new locations every month, because we have a worldwide community of climbers who share their best experiences with climbing',
+      'Lots of new locations, because we have a  community of travelers who share their best experiences on their adventure',
   },
 ];
 
